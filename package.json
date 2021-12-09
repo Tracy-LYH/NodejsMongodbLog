@@ -13,5 +13,8 @@
   ],
   "author": "Tracy",
   "license": "GNU",
-  "git repository":"https://github.com/Tracy-LYH/NodejsMongodbLog"
+  "git repository": "https://github.com/Tracy-LYH/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
